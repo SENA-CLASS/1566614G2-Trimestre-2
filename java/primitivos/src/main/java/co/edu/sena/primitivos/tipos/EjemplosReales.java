@@ -6,6 +6,7 @@ public class EjemplosReales {
 		float numeroReal = 3.5F;
 		
 		double numeroRealLargo = 3.5;
+		
 
 	}
 

@@ -26,3 +26,8 @@ hs_err_pid*
 /java/build/netbeansANT/nbproject/private/
 /java/build/netbeansANT/build/
 /java/build/netbeansANT/dist/
+java/primitivos/.settings/org.eclipse.m2e.core.prefs
+java/primitivos/.settings/org.eclipse.jdt.core.prefs
+java/primitivos/.project
+java/primitivos/.gitignore
+java/primitivos/.classpath

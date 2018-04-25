@@ -14,6 +14,12 @@ public class EjemploEnteros {
 		char caracter = 'a';
 		System.out.println(caracter);
 		
+		long numeroLargo = 2352356666655553344L;
+		
+		long targetaCredito = 1234_5678_1245_2454L;
+		
+		System.out.println(targetaCredito);
+		
 		
 
 	}
