@@ -1,4 +1,4 @@
-package co.edu.sena.primitivos.tipos;
+package co.edu.sena.operadores;
 
 public class Logico {
 

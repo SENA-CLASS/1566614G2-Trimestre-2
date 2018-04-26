@@ -12,7 +12,7 @@ public class Ejemplo05 {
 
 			switch (opcion) {
 			case 1:
-				System.out.println("opcion Uno");
+				System.out.println("Opción Uno administración ");
 				break;
 				
 			case 2:
