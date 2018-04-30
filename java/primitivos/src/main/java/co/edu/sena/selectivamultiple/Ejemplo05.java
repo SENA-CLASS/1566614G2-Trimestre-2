@@ -16,21 +16,21 @@ public class Ejemplo05 {
 				break;
 				
 			case 2:
-				System.out.println("opcion dos");
+				System.out.println("Opción dos");
 				break;
 			case 3:
-				System.out.println("opcion tres");
+				System.out.println("Opción tres");
 				break;
 			case 4:
-				System.out.println("opcion cuatro");
+				System.out.println("Opción cuatro");
 				break;
 			case 5:
-				System.out.println("opcion cinco gracias por usar este software");
+				System.out.println("Opción cinco gracias por usar este software");
 				break;
 			
 
 			default:
-				System.out.println("la opcion que digito no es correcta");
+				System.out.println("La opción que selecciono no es correcta");
 
 				break;
 			}
