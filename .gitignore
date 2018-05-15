@@ -33,3 +33,14 @@ java/primitivos/.gitignore
 java/primitivos/.classpath
 java/Nueva carpeta/bin/.project
 java/Nueva carpeta/.project
+poo/poo.iml
+poo/.idea/workspace.xml
+poo/.idea/vcs.xml
+poo/.idea/modules.xml
+poo/.idea/misc.xml
+poo/.idea/compiler.xml
+poo/.project
+poo/.gitignore
+poo/.classpath
+poo/.settings/org.eclipse.m2e.core.prefs
+poo/.settings/org.eclipse.jdt.core.prefs
