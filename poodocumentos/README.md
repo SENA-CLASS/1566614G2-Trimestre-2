@@ -1,11 +1,15 @@
-1. Clase(abstractas, concretas), objeto
+1. Clase(abstractas, concretas) sustantivos singulares, UpperCamelCase
+2. Objeto loweCamelCase
+3. visibilidad(+ public, - private, ~package, #protected)
+4. Atributo(+ public, - private, ~package, #protected) puede primitivo o referencia, lowerCameCase
+5. Metodo(+ public, - private, ~package, #protected) acciones verbos, lowweCamelCase
+6. encapsulamiento
+7. metodos mutadores(setter) y acesores(getter)
+9. constructor: sirve para crear los objetos
+10. constructor generico esta de forma invisible a menos que se cree un contructor con parametros
+11. constructor con parametros
+12. sobrecarga de constructores
 
-2. Atributo
-3. Metodo
-4. encapsulamiento
-5. metodos mutadores y acesores
-6. constructor, constructor generico, constructor con parametros
-7. sobrecarga de constructores
 8. sobrecarga de metodos
 9. atributos estaticos
 10. atributos final
@@ -20,7 +24,7 @@
 19. alta cohexion bajo acoplamiento
 20. super(), super, this
 21. Polimorfismo 
-22. visibilidad
+22. 
 23. API (Aplication program interface)
 23. Wrappers (boxing, unboxing, autounboxing)
 24. casting, autocasting
