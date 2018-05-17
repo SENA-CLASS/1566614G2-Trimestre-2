@@ -44,3 +44,8 @@ poo/.gitignore
 poo/.classpath
 poo/.settings/org.eclipse.m2e.core.prefs
 poo/.settings/org.eclipse.jdt.core.prefs
+poo/poo/.settings/org.eclipse.m2e.core.prefs
+poo/poo/.settings/org.eclipse.jdt.core.prefs
+poo/poo/.project
+poo/poo/.gitignore
+poo/poo/.classpath
