@@ -18,16 +18,10 @@
 18. sobreeescritura de metodos
 19. metodos abstractos
 20. metodos finales: metodos que o se puedes sobreescribir
+21. dependencias
+22. alta cohesión bajo acoplamiento
+23. super(), super, this
 
-
-
-
-
-
-
-18. dependencias
-19. alta cohexion bajo acoplamiento
-20. super(), super, this
 21. Polimorfismo 
 22. 
 23. API (Aplication program interface)

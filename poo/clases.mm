@@ -17,7 +17,7 @@
 <node CREATED="1438709512497" ID="ID_1226781365" MODIFIED="1438709541793" TEXT="UpperCamelCase es el mismo nombre de la clase"/>
 </node>
 </node>
-<node CREATED="1408132642245" ID="ID_865902588" MODIFIED="1467392104661" POSITION="left" TEXT="Atributos,propiedad o variable instancia">
+<node CREATED="1408132642245" FOLDED="true" ID="ID_865902588" MODIFIED="1527075876855" POSITION="left" TEXT="Atributos,propiedad o variable instancia">
 <node CREATED="1408133333742" ID="ID_1463402264" MODIFIED="1438697690968" TEXT="notaci&#xf3;n atributo UML">
 <node CREATED="1408133345270" ID="ID_1117700835" MODIFIED="1408133347635" TEXT="&lt;property&gt; ::= [&lt;visibility&gt;] [&#x2018;/&#x2019;] &lt;name&gt; [&#x2018;:&#x2019; &lt;prop-type&gt;] [&#x2018;[&#x2018; &lt;multiplicity&gt; &#x2018;]&#x2019;] [&#x2018;=&#x2019; &lt;default&gt;] [&#x2018;{&#x2018; &lt;prop-modifier &gt; [&#x2018;,&#x2019; &lt;prop-modifier &gt;]* &#x2019;}&#x2019;]"/>
 </node>
@@ -131,7 +131,7 @@
 </node>
 </node>
 <node CREATED="1408132757324" ID="ID_49098097" MODIFIED="1408132761293" POSITION="left" TEXT="metodos">
-<node CREATED="1407960802786" ID="ID_1672468198" MODIFIED="1438796067559" TEXT="metodos o operaciones">
+<node CREATED="1407960802786" FOLDED="true" ID="ID_1672468198" MODIFIED="1527075872396" TEXT="metodos o operaciones">
 <node CREATED="1408476705838" ID="ID_175986790" MODIFIED="1467392423645" TEXT="notacion en UML">
 <node CREATED="1408476713032" ID="ID_466674097" MODIFIED="1408476715310" TEXT="[&lt;visibility&gt;] &lt;name&gt; &#x2018;(&#x2018; [&lt;parameter-list&gt;] &#x2018;)&#x2019; [&#x2018;:&#x2019; [&lt;return-type&gt;] [&#x2018;[&#x2018; &lt;multiplicity&gt; &#x2018;]&#x2019;] [&#x2018;{&#x2018; &lt;oper-property&gt; [&#x2018;,&#x2019; &lt;oper-property&gt;]* &#x2018;}&#x2019;]]"/>
 </node>
@@ -339,7 +339,7 @@
 <node CREATED="1408479748988" ID="ID_1584947346" MODIFIED="1408479759485" TEXT="* coleccion"/>
 </node>
 </node>
-<node CREATED="1407960802786" ID="ID_653847220" MODIFIED="1408485077743" TEXT="constructor">
+<node CREATED="1407960802786" FOLDED="true" ID="ID_653847220" MODIFIED="1527075881578" TEXT="constructor">
 <node CREATED="1408476705838" ID="ID_384750713" MODIFIED="1408476711053" TEXT="notacion en UML">
 <node CREATED="1408476713032" ID="ID_1916462284" MODIFIED="1408476715310" TEXT="[&lt;visibility&gt;] &lt;name&gt; &#x2018;(&#x2018; [&lt;parameter-list&gt;] &#x2018;)&#x2019; [&#x2018;:&#x2019; [&lt;return-type&gt;] [&#x2018;[&#x2018; &lt;multiplicity&gt; &#x2018;]&#x2019;] [&#x2018;{&#x2018; &lt;oper-property&gt; [&#x2018;,&#x2019; &lt;oper-property&gt;]* &#x2018;}&#x2019;]]"/>
 </node>
