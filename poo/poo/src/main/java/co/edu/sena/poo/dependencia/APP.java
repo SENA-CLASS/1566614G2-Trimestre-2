@@ -6,7 +6,6 @@ public class APP {
 		Bus bus = new Bus();
 		bus.ingresaPersona(new Persona());
 
-		String a;
 
 	}
 

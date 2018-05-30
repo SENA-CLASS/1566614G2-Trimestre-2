@@ -21,14 +21,13 @@
 21. dependencias
 22. alta cohesión bajo acoplamiento
 23. super(), super, this
-
-21. Polimorfismo 
-22. 
-23. API (Aplication program interface)
-23. Wrappers (boxing, unboxing, autounboxing)
-24. casting, autocasting
-25. Realiziacion
+24. Polimorfismo 
+25. casting, autocasting
+26. Wrappers (boxing, unboxing, autounboxing)
+27. API (Aplication program interface)
+28. Realiziacion
 22. Interfaces (Generalizacion, Implementación)
+
 23. clases anidadas
 23.1 Nested classes
 23.1.1. static (static nested classes)
