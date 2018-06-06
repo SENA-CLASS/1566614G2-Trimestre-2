@@ -26,14 +26,15 @@
 26. Wrappers (boxing, unboxing, autounboxing)
 27. API (Aplication program interface)
 28. Realiziacion
-22. Interfaces (Generalizacion, Implementación)
+29. Interfaces (Generalizacion, Implementación)
+30. clases anidadas
+30.1 Nested classes
+30.1.1. static (static nested classes)
+30.1.2. static (Non-static nested classes or inner classes)
+30.2. Anonymous Classes
+31.3. inner class into methods
 
-23. clases anidadas
-23.1 Nested classes
-23.1.1. static (static nested classes)
-23.1.2. non-static (Non-static nested classes or inner classes)
-23.2. Anonymous Classes
-23.3. inner class into methods
+
 24. asociación (asociación, composición, agregación) simples
 25. sobreescritura del metodo equals, hashcode
 26. Collections (List)

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" 
+    name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2.Clase3.Clase4.Clase5.Clase6.Clase7.Clase8" project="poo" 
+    file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="907"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="co.edu.sena.poo.anidadas.estaticas.Clase1" project="poo" 
+    file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2" project="poo" 
+    file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="181"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2.Clase3.Clase4" project="poo" 
+    file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="423"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2.Clase3" project="poo" 
+    file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="302"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2.Clase3.Clase4.Clase5" 
+    project="poo" file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="544"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" 
+    name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2.Clase3.Clase4.Clase5.Clase6.Clase7" project="poo" 
+    file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="786"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2.Clase3.Clase4.Clase5.Clase6" 
+    project="poo" file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="665"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" 
+    name="co.edu.sena.poo.anidadas.estaticas.Clase1.Clase2.Clase3.Clase4.Clase5.Clase6.Clase7.Clase8.Clase9" 
+    project="poo" file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Clase1.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="81" width="160" x="165" y="1028"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="co.edu.sena.poo.anidadas.estaticas.Ejemplo01" project="poo" 
+    file="/poo/src/main/java/co/edu/sena/poo/anidadas/estaticas/Ejemplo01.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="160" x="511" y="796"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="11">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <nesting id="12">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <nesting id="13">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="3"/>  
+  </nesting>  
+  <nesting id="14">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <nesting id="15">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <nesting id="16">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="1"/>  
+  </nesting>  
+  <dependency id="17">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <nesting id="18">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </nesting>  
+  <dependency id="19">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <nesting id="20">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </nesting>  
+  <dependency id="21">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
