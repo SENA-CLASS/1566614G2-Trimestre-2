@@ -33,11 +33,9 @@
 30.1.2. static (Non-static nested classes or inner classes)
 30.2. Anonymous Classes
 31.3. inner class into methods
+32. asociación (asociación, composición, agregación) simples
+33. sobreescritura del metodo equals, hashcode
+34. Collections (List)
+35. metodo toString()
 
-
-24. asociación (asociación, composición, agregación) simples
-25. sobreescritura del metodo equals, hashcode
-26. Collections (List)
-27. asociación (asociación, composición, agregación) multiplicidad multiple *
-28. metodo toString()
 29. asosiation class
