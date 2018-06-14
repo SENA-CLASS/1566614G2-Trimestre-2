@@ -37,5 +37,4 @@
 33. sobreescritura del metodo equals, hashcode
 34. Collections (List)
 35. metodo toString()
-
-29. asosiation class
+36. asosiation class
